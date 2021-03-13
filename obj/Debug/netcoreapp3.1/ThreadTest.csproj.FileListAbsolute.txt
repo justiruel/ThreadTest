@@ -1,0 +1,13 @@
+D:\RND\ThreadTest\bin\Debug\netcoreapp3.1\ThreadTest.exe
+D:\RND\ThreadTest\bin\Debug\netcoreapp3.1\ThreadTest.deps.json
+D:\RND\ThreadTest\bin\Debug\netcoreapp3.1\ThreadTest.runtimeconfig.json
+D:\RND\ThreadTest\bin\Debug\netcoreapp3.1\ThreadTest.runtimeconfig.dev.json
+D:\RND\ThreadTest\bin\Debug\netcoreapp3.1\ThreadTest.dll
+D:\RND\ThreadTest\bin\Debug\netcoreapp3.1\ThreadTest.pdb
+D:\RND\ThreadTest\obj\Debug\netcoreapp3.1\ThreadTest.csprojAssemblyReference.cache
+D:\RND\ThreadTest\obj\Debug\netcoreapp3.1\ThreadTest.AssemblyInfoInputs.cache
+D:\RND\ThreadTest\obj\Debug\netcoreapp3.1\ThreadTest.AssemblyInfo.cs
+D:\RND\ThreadTest\obj\Debug\netcoreapp3.1\ThreadTest.csproj.CoreCompileInputs.cache
+D:\RND\ThreadTest\obj\Debug\netcoreapp3.1\ThreadTest.dll
+D:\RND\ThreadTest\obj\Debug\netcoreapp3.1\ThreadTest.pdb
+D:\RND\ThreadTest\obj\Debug\netcoreapp3.1\ThreadTest.genruntimeconfig.cache
